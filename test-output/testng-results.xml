@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="28152" started-at="2016-07-15T12:32:11Z" finished-at="2016-07-15T12:32:39Z">
+    <groups>
+    </groups>
+    <test name="Tools QA1" duration-ms="28152" started-at="2016-07-15T12:32:11Z" finished-at="2016-07-15T12:32:39Z">
+      <class name="com.test.Validate_selectionOfoptions">
+        <test-method status="PASS" signature="Validate_selectionOfoptions()[pri:0, instance:com.test.Validate_selectionOfoptions@2eeccf6e]" name="Validate_selectionOfoptions" duration-ms="15629" started-at="2016-07-15T18:02:24Z" finished-at="2016-07-15T18:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_selectionOfoptions -->
+      </class> <!-- com.test.Validate_selectionOfoptions -->
+      <class name="com.test.homepage_navigation">
+        <test-method status="PASS" signature="homepage_navigation()[pri:0, instance:com.test.homepage_navigation@2e3d787c]" name="homepage_navigation" duration-ms="12507" started-at="2016-07-15T18:02:11Z" finished-at="2016-07-15T18:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage_navigation -->
+      </class> <!-- com.test.homepage_navigation -->
+    </test> <!-- Tools QA1 -->
+  </suite> <!-- Test Suite -->
+</testng-results>

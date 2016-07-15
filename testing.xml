@@ -1,0 +1,8 @@
+<suite name= "Test Suite" >
+<test name="Tools QA1" >
+<classes>
+<class name ="com.test.homepage_navigation" />
+<class name ="com.test.Validate_selectionOfoptions" />
+</classes>
+</test>
+</suite>
